@@ -14,7 +14,7 @@
 
 <p align="center">
 <h1>Desktop:</h1>
-  <img alt="layout player youtube" src=".github/desktop.png" width="100%">
+  <img alt="layout-player-youtube" src=".github/desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
